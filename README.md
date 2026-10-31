@@ -1,6 +1,6 @@
 # testfiles
 
-Various image and PDF examples for testing. All files were self-made using open-source software and are freely reusable.
+Various image and PDF examples for testing. All files are self-made using open-source software and freely reusable.
 
 The passwords for the encrypted PDF are:
 * `test_user` (user password)
